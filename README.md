@@ -65,3 +65,7 @@ Using Vaadin pre-releases
 
 If Vaadin pre-releases are not enabled by default, use the Maven parameter
 "-P vaadin-prerelease" or change the activation default value of the profile in pom.xml .
+
+eclipseche_devmedia
+Repositório para exercitar os recursos do Eclipse Che
+>>>>>>> 135dcd1019c20e8e3240cd8c01c94ec1f288d5c9
